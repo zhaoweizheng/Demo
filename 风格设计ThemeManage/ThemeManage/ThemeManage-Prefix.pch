@@ -1,0 +1,35 @@
+//
+//  ThemeManage-Prefix.pch
+//  ThemeManage
+//
+//  Created by 邢 on 15-5-29.
+//  Copyright (c) 2015年 _MY_COMPANY_. All rights reserved.
+//
+
+#ifndef ThemeManage_ThemeManage_Prefix_pch
+#define ThemeManage_ThemeManage_Prefix_pch
+
+#import <Availability.h>
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import "UINavigationBar+Theme.h"
+#import "UIView+TMCategory.h"
+#import "DataGlobal.h"
+#import "TMLabel.h"
+#import "TMButton.h"
+#import "TMTableViewCell.h"
+#import "TMTextField.h"
+#import "TMImageView.h"
+#import "ThemeManager.h"
+#endif
+
+#endif

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Color_Bg_View</key>
+	<string>0xf8f8f8</string>
+	<key>Color_Bg_Cell</key>
+	<string>0xdddddd</string>
+	<key>Color_Btn_Normal</key>
+	<string>0xcccccc</string>
+	<key>Color_Btn_Select</key>
+	<string>0x344063</string>
+	<key>Color_Btn_Unable</key>
+	<string>0xb4b4b4</string>
+	<key>Color_Bg_TabBar</key>
+	<string>0xe3e3e3</string>
+	<key>Color_Bg_Nav</key>
+	<string>0xe3e3e3</string>
+	<key>Color_Text_Label</key>
+	<string>0x6c6c6c</string>
+	<key>Color_Text_Textfield</key>
+	<string>0x6c6c6c</string>
+	<key>Color_Button_Title</key>
+	<string>0x111111</string>
+	<key>Color_Label_Normal</key>
+	<string>0x000000</string>
+	<key>Color_Label_Notice</key>
+	<string>0x000000</string>
+	<key>Color_Label_Mark</key>
+	<string>0x000000</string>
+	<key>Color_Label_HighLight</key>
+	<string>0x000000</string>
+	<key>Color_Label_Link</key>
+	<string></string>
+	<key>Font_Label_Normal</key>
+	<string>14.0</string>
+	<key>Font_Label_Notice</key>
+	<string>13.0</string>
+	<key>Font_Label_Mark</key>
+	<string>12.0</string>
+	<key>Font_Label_HighLight</key>
+	<string>17.0</string>
+	<key>Font_Label_Link</key>
+	<string>13.0</string>
+</dict>
+</plist>
